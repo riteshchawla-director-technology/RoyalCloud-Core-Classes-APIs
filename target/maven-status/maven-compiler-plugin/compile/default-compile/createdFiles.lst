@@ -1,0 +1,12 @@
+royal\cloud\core\apis\codebases\RoyalCloudApIsApplication.class
+royal\cloud\core\apis\codebases\responses\RoyalCloudRestfulAPIResponse.class
+royal\cloud\core\apis\codebases\responses\RoyalCloudRestResponseDTO.class
+royal\cloud\core\apis\codebases\RoyalCloudCommonHelper.class
+royal\cloud\core\apis\codebases\responses\RoyalCloudResponseEntity.class
+royal\cloud\core\apis\codebases\responses\RoyalCloudBooleanResponse.class
+royal\cloud\core\apis\codebases\responses\RoyalCloudJsonResponseDTO.class
+royal\cloud\core\apis\codebases\responses\RoyalCloudCommonResponseEntity.class
+royal\cloud\core\apis\codebases\responses\RoyalCloudBasicCommonDTO.class
+royal\cloud\core\apis\codebases\responses\RoyalCloudGeneralRestResponseDTO.class
+royal\cloud\core\apis\codebases\responses\RoyalCloudLongResponse.class
+royal\cloud\core\apis\codebases\responses\RoyalCloudStringResponse.class
